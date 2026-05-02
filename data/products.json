@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P001",
+    "name": "SmartPhone X1",
+    "category": "Smartphones",
+    "brand": "TechNova",
+    "price": "₹29,999",
+    "features": "6.5-inch HD+ display, 5G connectivity, 128GB internal storage, 6GB RAM, 5000mAh battery, 48MP triple camera, fast charging 33W, fingerprint sensor, Android 13",
+    "warranty": "1 year manufacturer warranty. Screen damage not covered.",
+    "return_policy": "10-day return if unused and in original packaging. No return on opened box.",
+    "stock": "In Stock",
+    "description": "The SmartPhone X1 is an entry-level 5G smartphone perfect for daily use. Excellent battery life and a reliable camera system make it a great value pick under ₹30,000."
+  },
+  {
+    "id": "P002",
+    "name": "SmartPhone X2",
+    "category": "Smartphones",
+    "brand": "TechNova",
+    "price": "₹39,999",
+    "features": "6.7-inch AMOLED display, 5G, 256GB storage, 8GB RAM, 4800mAh battery, 64MP quad camera, 65W fast charging, in-display fingerprint, Android 14, IP67 water resistant",
+    "warranty": "1 year manufacturer warranty with 6-month accidental damage cover.",
+    "return_policy": "10-day return if unused and in original packaging.",
+    "stock": "In Stock",
+    "description": "The SmartPhone X2 is a mid-range flagship with a stunning AMOLED display and pro-grade camera. Best in class performance for under ₹40,000."
+  },
+  {
+    "id": "P003",
+    "name": "SmartPhone X3 Pro",
+    "category": "Smartphones",
+    "brand": "TechNova",
+    "price": "₹59,999",
+    "features": "6.8-inch QHD+ AMOLED 120Hz, 5G, 512GB storage, 12GB RAM, Snapdragon 8 Gen 2, 5100mAh battery, 108MP periscope zoom camera, 100W fast charging, IP68",
+    "warranty": "2 year comprehensive warranty including screen damage once.",
+    "return_policy": "15-day return policy, even if opened, provided device is undamaged.",
+    "stock": "In Stock",
+    "description": "The X3 Pro is TechNova's flagship smartphone. Blazing fast chip, incredible zoom camera, and the longest battery life in the lineup."
+  },
+  {
+    "id": "P004",
+    "name": "LaptopPro Z5",
+    "category": "Laptops",
+    "brand": "ByteBook",
+    "price": "₹65,000",
+    "features": "Intel Core i5 12th Gen, 16GB DDR5 RAM, 512GB NVMe SSD, 15.6-inch FHD IPS display, Intel Iris Xe graphics, Windows 11 Home, backlit keyboard, USB-C Thunderbolt 4",
+    "warranty": "2 year onsite warranty. Battery covered for 1 year.",
+    "return_policy": "7-day return if unopened. No return once activated.",
+    "stock": "Out of Stock",
+    "description": "LaptopPro Z5 is a productivity powerhouse ideal for students and professionals. Fast SSD and plenty of RAM ensure smooth multitasking."
+  },
+  {
+    "id": "P005",
+    "name": "LaptopPro Z7 Ultra",
+    "category": "Laptops",
+    "brand": "ByteBook",
+    "price": "₹1,10,000",
+    "features": "Intel Core i7 13th Gen, 32GB DDR5 RAM, 1TB NVMe SSD, 16-inch 2.5K OLED display, NVIDIA RTX 4060 8GB, Windows 11 Pro, RGB backlit keyboard, fingerprint reader, Wi-Fi 6E",
+    "warranty": "3 year onsite warranty with dedicated support line.",
+    "return_policy": "7-day return if unopened.",
+    "stock": "In Stock",
+    "description": "The Z7 Ultra is a creator and gaming laptop with OLED display and dedicated GPU. Handles video editing, 3D rendering, and gaming with ease."
+  },
+  {
+    "id": "P006",
+    "name": "SoundPods AirMax",
+    "category": "Audio",
+    "brand": "SonicWave",
+    "price": "₹4,999",
+    "features": "Active Noise Cancellation (ANC), 30-hour total battery life, Bluetooth 5.3, IPX5 water resistant, touch controls, dual mic for calls, USB-C charging, 10mm drivers",
+    "warranty": "1 year warranty. Physical damage not covered.",
+    "return_policy": "7-day return if unused and sealed.",
+    "stock": "In Stock",
+    "description": "SoundPods AirMax offer premium ANC at an affordable price. Perfect for commutes, workouts, and long calls."
+  },
+  {
+    "id": "P007",
+    "name": "SoundPods ProX",
+    "category": "Audio",
+    "brand": "SonicWave",
+    "price": "₹9,999",
+    "features": "Hybrid ANC with transparency mode, 40-hour battery, Bluetooth 5.3 multipoint, Hi-Res Audio certified, 11mm drivers, wireless charging case, find my earbuds, USB-C",
+    "warranty": "1 year warranty with 1 free eartip replacement.",
+    "return_policy": "10-day return if unused.",
+    "stock": "In Stock",
+    "description": "ProX delivers audiophile-grade sound with powerful ANC. The wireless charging case and multipoint connectivity make it incredibly convenient."
+  },
+  {
+    "id": "P008",
+    "name": "SmartWatch FitElite",
+    "category": "Wearables",
+    "brand": "WristTech",
+    "price": "₹12,999",
+    "features": "1.45-inch AMOLED always-on display, GPS, SpO2, heart rate 24/7, sleep tracking, 100+ workout modes, 14-day battery, IP68, NFC payments, Alexa built-in",
+    "warranty": "1 year manufacturer warranty.",
+    "return_policy": "10-day return if unused.",
+    "stock": "In Stock",
+    "description": "FitElite is a comprehensive fitness and lifestyle smartwatch. With GPS, NFC, and 14-day battery life, it truly does it all."
+  },
+  {
+    "id": "P009",
+    "name": "TabletMax 10 Pro",
+    "category": "Tablets",
+    "brand": "TechNova",
+    "price": "₹34,999",
+    "features": "10.9-inch 2K LCD 90Hz, Dimensity 1300 processor, 8GB RAM, 256GB storage, 8000mAh battery, 13MP rear camera, stylus support, keyboard cover compatible, Wi-Fi 6, Android 14",
+    "warranty": "1 year manufacturer warranty.",
+    "return_policy": "10-day return if unused.",
+    "stock": "In Stock",
+    "description": "TabletMax 10 Pro bridges the gap between tablet and laptop. Great for students, artists, and content creators."
+  },
+  {
+    "id": "P010",
+    "name": "RoboVac CleanBot X",
+    "category": "Home Appliances",
+    "brand": "HomeSmart",
+    "price": "₹18,999",
+    "features": "LiDAR navigation, 4000Pa suction, auto-empty base, 300ml dustbin, mop function, 3-hour runtime, works on carpet and hardwood, app control, Alexa and Google Home compatible",
+    "warranty": "2 year warranty including motor.",
+    "return_policy": "7-day return if unused.",
+    "stock": "In Stock",
+    "description": "CleanBot X uses LiDAR to precisely map your home and clean every corner. The auto-empty base means you only empty the dock once a month."
+  }
+]

@@ -1,0 +1,21 @@
+# Core RAG dependencies
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai==0.1.23
+
+# Embeddings (local, no API key needed)
+sentence-transformers==3.0.1
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Streamlit UI
+streamlit==1.38.0
+
+# LLM options
+openai==1.43.0          # For OpenAI GPT models
+# ollama                # Install Ollama separately from https://ollama.com
+# langchain-groq        # Uncomment if using Groq free API
+
+# Utilities
+python-dotenv==1.0.1
